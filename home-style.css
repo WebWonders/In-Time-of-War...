@@ -1,0 +1,50 @@
+#menubar {
+  padding: 10px;
+  background-color: #6666FF;
+  border-radius: 10px;
+  width: 300px;
+  text-align: center;
+}
+.menuItem {
+  background-color: #3399FF;
+  display: inline-block;
+  border: 2px solid #0066CC;
+  border-radius: 5px;
+  padding: 5px;
+  width: 100px
+}
+a {
+  color: red;
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+}
+h1 {
+  font-family: Helvetica;
+  color: red;
+}
+h3 {
+  font-family: Arial;
+  color: #3333CC;
+}
+h2 {
+  font-family: Helvetica;
+  color: red;
+}
+p {
+  font-family: Courier;
+  font-size: 15px
+}
+#courtesy {
+  background-color: #6666FF;
+  border-radius: 8px;
+  height: 30px;
+  width: 300px;
+  text-align: center;
+}
+#all {
+  background-color: #CCCCFF;
+  padding: 10px;
+  border-radius: 10px;
+  height: 300px;
+  width: 350px;
+}
