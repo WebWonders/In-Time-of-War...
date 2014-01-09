@@ -1,0 +1,9 @@
+.shown:click {
+    border: 1px solid red;
+}
+.shown {
+    display: inline-block;
+}
+.hidden {
+    display: none;
+}
