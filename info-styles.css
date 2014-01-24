@@ -1,0 +1,23 @@
+/*CSS for the info page for https://github.com/WebWonders/In-Time-of-War... */
+
+
+body {
+
+	background-color: #eeeeee;
+}
+
+h1 {
+
+	color: red;
+	font-family: Verana, sans-serif;
+
+}
+
+.warning {
+	color: blue;
+	font-weight: bold;
+}
+
+.tagline {
+	font-size: 150%;
+}
