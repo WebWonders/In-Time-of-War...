@@ -10,6 +10,7 @@
     
     #text {
     position: left;
+    margin: 6px;
       display: inline-block;
       background-color: #CCCCCC;
       border-radius: 5px;
