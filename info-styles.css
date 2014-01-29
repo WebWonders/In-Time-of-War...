@@ -1,23 +1,19 @@
 /*CSS for the info page for https://github.com/WebWonders/In-Time-of-War... */
 
 
-body {
-
-	background-color: #eeeeee;
-}
-
-h1 {
-
-	color: red;
-	font-family: Verana, sans-serif;
-
-}
-
-.warning {
-	color: blue;
-	font-weight: bold;
-}
-
-.tagline {
-	font-size: 150%;
-}
+    #main {
+      background-color: #666666;
+      border-radius: 5px;
+      border: 2px solid #333333;
+      text-align: center;
+    }
+    
+    #text {
+    position: left;
+      display: inline-block;
+      background-color: #CCCCCC;
+      border-radius: 5px;
+      border: 2px solid #999999;
+      text-align: center;
+      width: 250px;
+    }
