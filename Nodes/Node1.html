@@ -8,14 +8,46 @@
   <h1>In Time of War</h1>
   <p></p>
   <section>
+    <!-- Choices -->
     <a href=""><img src="Images/Tank.png"/></a>
     <a href=""><img src="Images/Trenches.png"/></a>
+    <!-- Info sidebar -->
     <aside>
       <p>You are a soldier in WWII.</p>
       <p>The man at the enlistment office tells you that you can either work as a tank driver or fight in the trenches</p>
-      <p>Do you choose the <span>trenches</span> or the <span>tanks</span>?</p>
+      <p>Do you choose the <a href=""><span>trenches</span></a> or the <a href=""><span>tanks</span></a>?</p>
       <small>Click on the image that corresponds to your choice</small>
-    </aside>
+    </aside> <!-- End info sidebar -->
   </section>
+  <style>
+    img {
+      width: 100px;
+      height: 100px;
+      display: inline-block;
+    }
+    section {
+      background-color: #666666;
+      border-radius: 5px;
+      border: 2px solid #333333;
+      text-align: center;
+    }
+    aside {
+      position: left;
+      display: inline-block;
+      background-color: #CCCCCC;
+      border-radius: 5px;
+      border: 2px solid #999999;
+      text-align: center;
+    }
+    span {
+      text-decoration: bold;
+    }
+    span:hover {
+      color: #FF0000;
+    }
+    a {
+      text-decoration: none;
+    }
+  </style>
 </body>
 </html>
