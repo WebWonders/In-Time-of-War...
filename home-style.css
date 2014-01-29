@@ -18,7 +18,7 @@ a {
   text-decoration: none;
   font-family: Helvetica, sans-serif;
 }
-h1 {
+h1, h2 {
   font-family: Helvetica;
   color: red;
 }
@@ -26,10 +26,7 @@ h3 {
   font-family: Arial;
   color: #3333CC;
 }
-h2 {
-  font-family: Helvetica;
-  color: red;
-}
+
 p {
   font-family: Courier;
   font-size: 15px
