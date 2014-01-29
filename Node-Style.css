@@ -6,6 +6,7 @@
     }
     img:hover {
       border: 2px solid #FFFF00;
+      padding: 8px;
     }
     section {
       background-color: #666666;
