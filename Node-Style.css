@@ -8,6 +8,18 @@
       border: 2px solid #FFFF00;
       padding: 8px;
     }
+    #infoPic {
+        width: 350px;
+        height: 350px;
+        display: block;
+        padding: 10px;
+    }
+    #infoPic:hover {
+        width: 350px;
+        height: 350px;
+        display: block;
+        padding: 10px;
+    }
     section {
       background-color: #666666;
       border-radius: 5px;
